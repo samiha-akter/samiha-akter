@@ -52,6 +52,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/samiha-akter/github-readme-stats)
 
 ### 🌐 Socials
 <a href="samihaaktter@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="samiha" width="40" height="40"/></a>
