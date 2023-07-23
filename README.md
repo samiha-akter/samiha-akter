@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=900&size=40&duration=1&pause=1&color=4488F7&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=800&duration=3500&pause=100&color=F7ECEA&center=true&width=1000&lines=Undergrad+Student;Computer+Science;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=800&duration=3500&pause=100&color=4488F7&center=true&width=1000&lines=Undergrad+Student;Computer+Science;Competitive+Programmer)](https://git.io/typing-svg)
 
 
 
@@ -53,9 +53,9 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 
-## 🌐 Socials
+### 🌐 Socials
 <a href="samihaaktter@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="samiha" width="40" height="40"/></a>
 <a href="https://linkedin.com/in/aktersamiha" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="akter samiha" width="40" height="40"/></a> 
 
-##
+###
 [![](https://visitcount.itsvg.in/api?id=samiha-akter&icon=0&color=1)](https://visitcount.itsvg.in)
