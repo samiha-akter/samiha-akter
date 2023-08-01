@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=900&size=40&duration=1&pause=1&color=4488F7&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=900&size=38&duration=1&pause=1&color=4488F7&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=operator+mono&weight=800&duration=3500&pause=100&color=4488F7&center=true&width=1000&lines=Undergrad+Student;Computer+Science;Competitive+Programmer)](https://git.io/typing-svg)
 
 
