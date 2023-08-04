@@ -4,7 +4,7 @@
 
 
 
-# 💻 Tech Stack
+<h2>Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
 
 #### LANGUAGES
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -50,13 +50,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) 
 
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/samiha-akter/github-readme-stats)
 
-### 🌐 Socials
-<a href="samihaaktter@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="samiha" width="40" height="40"/></a>
-<a href="https://linkedin.com/in/aktersamiha" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="akter samiha" width="40" height="40"/></a> 
+
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<a href="https://linkedin.com/in/aktersamiha" target="_blank" rel="noreferrer"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="akter samiha" width="30" height="30"/></a> 
 
 ###
 [![](https://visitcount.itsvg.in/api?id=samiha-akter&icon=0&color=1)](https://visitcount.itsvg.in)
