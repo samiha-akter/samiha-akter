@@ -3,8 +3,7 @@
 
 
 
-
-<h2>Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> </h2>
+# Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 #### LANGUAGES
 
@@ -36,13 +35,13 @@
 | NumPy | Pandas | SciPy | Anaconda | TensorflowJS | OpenCV | EasyOCR | PyTesseract |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-#### Team Work
+#### Team Work and Management 
 | Notion | Trello | 
 | :---: | :---: | 
 
 #### OTHER
-| Latex | Postman |
-| :---: | :---: | 
+| Latex | Postman | Slack |
+| :---: | :---: | :---: |
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
