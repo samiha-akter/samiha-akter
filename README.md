@@ -35,7 +35,7 @@
 | Canva | Figma | 
 | :---: | :---: | 
 
-#### Machine Learning, Deep learning & Computer Vision
+#### Machine Learning, Deep Learning & Computer Vision
 
 | NumPy | Pandas | SciPy | Anaconda | TensorflowJS | OpenCV | EasyOCR | PyTesseract |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -48,12 +48,18 @@
 | Latex | Postman | Slack |
 | :---: | :---: | :---: |
 
-### Stats
+# Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/samiha-akter/github-readme-stats)
-### Activity Streak
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react&show_icons=true)](https://github.com/samiha-akter/github-readme-stats)
+
+## Activity Streak
+
 ![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
+
 ###
+
 [![](https://visitcount.itsvg.in/api?id=samiha-akter&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ###
