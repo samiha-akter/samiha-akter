@@ -47,7 +47,7 @@
 | Latex | Postman | Slack |
 | :---: | :---: | :---: |
 
-### ]Stats
+### Stats
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/samiha-akter/github-readme-stats)
 ### Activity Streak
