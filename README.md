@@ -5,6 +5,7 @@
 
 - Explore my projects at [Samiha Akter](https://github.com/samiha-akter?tab=repositories)
 - Currently exploring **Next.js** & **Flutter**
+- Connect with me samihaaktter@gmail.com
 
 
 # Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
