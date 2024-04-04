@@ -20,8 +20,8 @@
 
 #### Frameworks, Platforms & Libraries
 
-| Flutter | SASS | GraphQL |
-| :---: | :---: | :---: |
+| Flutter | SASS | GraphQL | TensorFlow Lite |
+| :---: | :---: | :---: | :---: |
 
 ## Web Development
 
@@ -46,15 +46,22 @@
 
 #### Frameworks, Platforms & Libraries
 
-| NumPy | Pandas | SciPy | Anaconda |
+| NumPy | Pandas | SciPy | Matplotlib |
 | :---: | :---: | :---: | :---: |
-| TensorflowJS | OpenCV | EasyOCR | PyTesseract |
-
+| TensorflowJS | OpenCV | EasyOCR | PyTesseract | 
 
 ## Programming Languages
 
 | C++ | C | Java|
 | :---: | :---: | :---: |
+
+## Networking & Security
+| WireShark |
+| :---: |
+
+## IoT (Internet of Things)
+| Arduino | Raspberry Pi |
+| :---: | :---: |
 
 ## Server 
 
@@ -76,6 +83,10 @@
 | Notion | Trello |Slack |
 | :---: | :---: |:---: |
 
+## Version Control
+| Git | GitHub |
+| :---: | :---: |
+
 ## Other
 
 | Latex | Postman | Firebase | 
@@ -83,17 +94,8 @@
 
 # Stats
 
-![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=true&include_all_commits=false&count_private=false)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react&show_icons=true)](https://github.com/samiha-akter/github-readme-stats)
-
-## Activity Streak
-
+![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
 
-###
-
-[![](https://visitcount.itsvg.in/api?id=samiha-akter&icon=0&color=1)](https://visitcount.itsvg.in)
-
-###
+##
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
