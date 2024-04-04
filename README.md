@@ -10,43 +10,76 @@
 
 # Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
-#### LANGUAGES
 
-| Python | Dart | C++ | JavaScript | Java | C | PHP | HTML5 | CSS3 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+## Mobile App Development
 
+#### Languages
 
-#### FRAMEWORKS, PLATFORMS & LIBRARIES
-
-| Bootstrap | TailwindCSS | DaisyUI | ExpressJS | React | NodeJS | Flask |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-#### SERVERS
-| Apache |
+| Dart |
 | :---: |
 
-#### DATABASES
+#### Frameworks, Platforms & Libraries
 
-| MySQL| Postgres | 
-| :---: | :---: | 
-
-#### DESIGN
-
-| Canva | Figma | 
-| :---: | :---: | 
-
-#### Machine Learning, Deep Learning & Computer Vision
-
-| NumPy | Pandas | SciPy | Anaconda | TensorflowJS | OpenCV | EasyOCR | PyTesseract |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-#### Team Work and Management 
-| Notion | Trello | 
-| :---: | :---: | 
-
-#### OTHER
-| Latex | Postman | Slack |
+| Flutter | SASS | GraphQL |
 | :---: | :---: | :---: |
+
+## Web Development
+
+#### Languages
+
+| Python | JavaScript | 
+| :---: | :---: | 
+|HTML5 | CSS3 |
+
+#### Frameworks, Platforms & Libraries
+
+| Flask | React |ExpressJS | NodeJS |
+| :---: | :---: | :---: | :---: | 
+| Bootstrap | TailwindCSS | DaisyUI | shadcn UI |
+
+## Machine Learning, Deep Learning & Computer Vision
+
+#### Languages
+
+| Python |
+| :---: |
+
+#### Frameworks, Platforms & Libraries
+
+| NumPy | Pandas | SciPy | Anaconda |
+| :---: | :---: | :---: | :---: |
+| TensorflowJS | OpenCV | EasyOCR | PyTesseract |
+
+
+## Programming Languages
+
+| C++ | C | Java|
+| :---: | :---: | :---: |
+
+## Server 
+
+| Apache | 
+| :---: |
+
+##  Database
+
+| MySQL | Postgres |
+| :---: | :---: |
+
+## Design
+
+| Canva | Figma | Tween |
+| :---: | :---: | :---: |
+
+## Team Work and Management
+
+| Notion | Trello |Slack |
+| :---: | :---: |:---: |
+
+## Other
+
+| Latex | Postman | Firebase | 
+| :---: | :---: | :---: | 
 
 # Stats
 
