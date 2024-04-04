@@ -4,7 +4,7 @@
 # Quick Overview
 
 - Explore my projects at [Samiha Akter](https://github.com/samiha-akter?tab=repositories)
-- Currently exploring **Next.js** & **Flutter**
+- Currently exploring **Next.js**
 - Connect with me samihaaktter@gmail.com
 
 
