@@ -7,15 +7,13 @@
 - Currently exploring **Next.js**
 - Connect with me samihaaktter@gmail.com
 
-## Competitive Programming
+## Competitive Programming Profiles
 
-<p align="left"
-<a href="https://leetcode.com/samiha_akter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Samiha" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samiha_akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samiha" height="30" width="40" /></a>
-</p>
+- [StopStalk](https://www.stopstalk.com/user/profile/samiha_akter)
+- [Codeforces](https://leetcode.com/its_SuMu/)
+- [LeetCode](https://codeforces.com/profile/samiha_akter)
 
 # Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
-
 
 ## Mobile App Development
 
