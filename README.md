@@ -8,9 +8,10 @@
 - Connect with me samihaaktter@gmail.com
 
 ## Competitive Programming Profiles
-
-- [StopStalk](https://www.stopstalk.com/user/profile/samiha_akter)
-- [LeetCode](https://leetcode.com/its_SuMu/)
+<p align="left">
+<a href="https://www.stopstalk.com/user/profile/samiha_akter" target="blank"><img align="center" src="./stopstalk.png" alt="samiha" height="30" width="40" /></a>
+<a href="https://leetcode.com/its_SuMu/" target="blank"><img align="center" src="./leet.png" alt="samiha" height="30" width="40" /></a>
+</p>
 
 # Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
@@ -100,7 +101,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
 
-# My Best Projects
-
 ##
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+![Waves](./wave.svg)
