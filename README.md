@@ -10,7 +10,7 @@
 ## Competitive Programming Profiles
 <p align="left">
 <a href="https://www.stopstalk.com/user/profile/samiha_akter" target="blank"><img align="center" src="./stopstalk.png" alt="samiha" height="30" width="40" /></a>
-<a href="https://leetcode.com/its_SuMu/" target="blank"><img align="center" src="./leet.png" alt="samiha" height="30" width="40" /></a>
+<a href="https://leetcode.com/its_SuMu/" target="blank"><img align="center" src="./leetcode.png" alt="samiha" height="30" width="40" /></a>
 </p>
 
 # Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
