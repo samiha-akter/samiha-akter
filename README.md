@@ -2,14 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=41C9E2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
 
 
-#
-- Explore my projects at [Samiha Akter](https://github.com/samiha-akter?tab=repositories)
-- Currently exploring **Next.js**
-- Connect with me samihaaktter@gmail.com or [LinkedIn](https://www.linkedin.com/in/aktersamiha)
+##
+📌 Explore my projects at [Samiha Akter](https://github.com/samiha-akter?tab=repositories)
 
-## Competitive Programming Profiles
+📌 Currently exploring **Next.js**, **Typescript**, **JWT**, **Firebase** and **Flutter**
+
+📌 Connect with me samihaaktter@gmail.com or [LinkedIn](https://www.linkedin.com/in/aktersamiha)
+
+## Programming Profiles
 <p align="left">
-<a href="https://www.stopstalk.com/user/profile/samiha_akter" target="blank"><img align="center" src="./stopstalk.png" alt="samiha" height="50" width="40" /></a>
+<a href="https://www.stopstalk.com/user/profile/samiha_akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/jasmine.svg" alt="samiha" height="30" width="40" /></a>
 <a href="https://leetcode.com/its_SuMu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiha" height="30" width="40" /></a>
 </p>
 
@@ -97,9 +99,13 @@
 | :---: | :---: | :---: | 
 
 # Stats
+<!-- Profile views -->
+![](https://komarev.com/ghpvc/?username=samiha-akter)
 
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
 
-##
+<!--  TOP LANGUAGES -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
+
 ![Waves](./wave.svg)
