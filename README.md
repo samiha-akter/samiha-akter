@@ -1,4 +1,8 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=41C9E2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=41C9E2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
 
 📌 Explore my projects at [Samiha Akter](https://github.com/samiha-akter?tab=repositories)
@@ -9,29 +13,29 @@
 
 📌 Connect with me samihaaktter@gmail.com or [LinkedIn](https://www.linkedin.com/in/aktersamiha)
 
-# Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
 
 ## Mobile App Development
 
-#### Languages
+Languages
 
 | Dart |
 | :---: |
 
-#### Frameworks, Platforms & Libraries
+Frameworks, Platforms & Libraries
 
 | Flutter | SASS | GraphQL | TensorFlow Lite |
 | :---: | :---: | :---: | :---: |
 
 ## Web Development
 
-#### Languages
+Languages
 
 | Python | JavaScript | 
 | :---: | :---: | 
 |HTML5 | CSS3 |
 
-#### Frameworks, Platforms & Libraries
+Frameworks, Platforms & Libraries
 
 | Flask | React |ExpressJS | NodeJS |
 | :---: | :---: | :---: | :---: | 
@@ -39,27 +43,29 @@
 
 ## Machine Learning, Deep Learning & Computer Vision
 
-#### Languages
+Languages
 
 | Python |
 | :---: |
 
-#### Frameworks, Platforms & Libraries
+Frameworks, Platforms & Libraries
 
 | NumPy | Pandas | SciPy | Matplotlib |
 | :---: | :---: | :---: | :---: |
 | TensorflowJS | OpenCV | EasyOCR | PyTesseract | 
 
-## Programming Languages
+Programming Languages
 
 | C++ | C | Java|
 | :---: | :---: | :---: |
 
 ## Networking & Security
+
 | WireShark |
 | :---: |
 
 ## IoT (Internet of Things)
+
 | Arduino | Raspberry Pi |
 | :---: | :---: |
 
@@ -70,13 +76,13 @@
 
 ##  Database
 
-| MySQL | Postgres |
-| :---: | :---: |
+| MySQL | Postgres | MongoDB |
+| :---: | :---: | :--: |
 
 ## Design
 
-| Canva | Figma | Tween |
-| :---: | :---: | :---: |
+| Canva | Figma | Tween | Pixco |
+| :---: | :---: | :---: | :--: |
 
 ## Team Work and Management
 
