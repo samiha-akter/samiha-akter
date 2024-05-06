@@ -1,21 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=41C9E2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=41C9E2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
 
-
-##
 📌 Explore my projects at [Samiha Akter](https://github.com/samiha-akter?tab=repositories)
 
-📌 Currently exploring **Next.js**, **Typescript**, **JWT**, **Firebase** and **Flutter**
+📌 Programming Profiles in [Stopstalk](https://www.stopstalk.com/user/profile/samiha_akter)
+
+📌 Currently exploring **Next.js**, **JWT** and **Flutter**
 
 📌 Connect with me samihaaktter@gmail.com or [LinkedIn](https://www.linkedin.com/in/aktersamiha)
 
-## Programming Profiles
-<p align="left">
-<a href="https://www.stopstalk.com/user/profile/samiha_akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/jasmine.svg" alt="samiha" height="30" width="40" /></a>
-<a href="https://leetcode.com/its_SuMu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiha" height="30" width="40" /></a>
-</p>
-
-# Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+# Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
 
 ## Mobile App Development
 
@@ -106,6 +100,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
 
 <!--  TOP LANGUAGES -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react&layout=compact)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
 
 ![Waves](./wave.svg)
