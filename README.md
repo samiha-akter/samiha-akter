@@ -1,21 +1,23 @@
-<div align="center">
+<!--- <div align="center">
   <img src="./techstack.gif" alt="tech stack" />
 </div> 
+<br/><br/> -->
 <br/><br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
 
 ---
 
-📌 Explore my projects at [Samiha Akter Repo](https://github.com/samiha-akter?tab=repositories)
-    
-📌 Programming Profiles in [Stopstalk](https://www.stopstalk.com/user/profile/samiha_akter)
-    
-📌 Currently exploring **NextJs**, **JWT**, **TypeScript** and **Flutter**
-    
-📌 Connect with me [Mail](mailto:samihaaktter@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aktersamiha)
+<br/>
+<div width="100%" align="center">
+  <div align="left"><img align="left" width="350" height="200" src="./techstack.gif">
+  </div>
+  <div align="right">
+   <p>📌 Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Samiha Akter Repo</a><br/><br/>📌 Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a><br/><br/>📌 Currently exploring <strong>NextJs, JWT, TypeScript and Flutter</strong><br/><br/>📌 Connect with me <a href="mailto:samihaaktter@gmail.com">Mail</a>or <a href="https://www.linkedin.com/in/aktersamiha">LinkedIn</a></p><br/><br/>
+  </div>
+</div>
+
 <br/>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
