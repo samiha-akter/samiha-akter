@@ -16,6 +16,7 @@
 📌 Currently exploring **NextJs**, **JWT**, **TypeScript** and **Flutter**
     
 📌 Connect with me [Mail](mailto:samihaaktter@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aktersamiha)
+<br/>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
 <br/>
@@ -31,6 +32,7 @@ Frameworks, Platforms & Libraries
 
 | Flutter | SASS | GraphQL | TensorFlow Lite |
 | :---: | :---: | :---: | :---: |
+<br/>
 
 ## Web Development
 
@@ -45,6 +47,7 @@ Frameworks, Platforms & Libraries
 | Flask | React |ExpressJS | NodeJS |
 | :---: | :---: | :---: | :---: | 
 | Bootstrap | TailwindCSS | DaisyUI | shadcn UI |
+<br/>
 
 ## Machine Learning, Deep Learning & Computer Vision
 
@@ -58,45 +61,54 @@ Frameworks, Platforms & Libraries
 | NumPy | Pandas | SciPy | Matplotlib |
 | :---: | :---: | :---: | :---: |
 | TensorflowJS | OpenCV | EasyOCR | PyTesseract | 
+<br/>
 
 Programming Languages
 
 | C++ | C | Java|
 | :---: | :---: | :---: |
+<br/>
 
 ## Networking & Security
 
 | WireShark |
 | :---: |
+<br/>
 
 ## IoT (Internet of Things)
 
 | Arduino | Raspberry Pi |
 | :---: | :---: |
+<br/>
 
 ## Server 
 
 | Apache | 
 | :---: |
+<br/>
 
 ##  Database
 
 | MySQL | Postgres | MongoDB |
 | :---: | :---: | :--: |
+<br/>
 
 ## Design
 
 | Canva | Figma | Tween | Pixco |
 | :---: | :---: | :---: | :--: |
+<br/>
 
 ## Team Work and Management
 
 | Notion | Trello |Slack |
 | :---: | :---: |:---: |
+<br/>
 
 ## Version Control
 | Git | GitHub |
 | :---: | :---: |
+<br/>
 
 ## Other
 
@@ -112,7 +124,7 @@ Programming Languages
 
 <!--  TOP LANGUAGES -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react&layout=compact)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samiha-akter&theme=react)
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samiha-akter&theme=react&&utcOffset=6)
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiha-akter&theme=react) -->
 
