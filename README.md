@@ -3,9 +3,9 @@
 </div> 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=41C9E2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=41C9E2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -117,7 +117,7 @@ Programming Languages
 
 # Stats
 <!-- Profile views -->
-![](https://komarev.com/ghpvc/?username=samiha-akter)
+![](https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
