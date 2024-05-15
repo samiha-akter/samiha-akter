@@ -14,7 +14,7 @@
   <div align="left"><img align="left" width="350" height="200" src="./techstack.gif">
   </div>
   <div align="right">
-   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Samiha Akter Repo</a> 📌<br/><br/>Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a> 📌<br/><br/>Currently exploring <strong>NextJs</strong> and <strong>Flutter</strong> 📌<br/><br/>Connect with me <a href="mailto:samihaaktter@gmail.com">Mail</a>or <a href="https://www.linkedin.com/in/aktersamiha">LinkedIn</a> 📌</p><br/><br/>
+   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Samiha Akter Repo</a> 📍<br/><br/>Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a> 📍<br/><br/>Currently exploring <strong>NextJs</strong> and <strong>Flutter</strong> 📍<br/><br/>Connect with me <a href="mailto:samihaaktter@gmail.com">Mail</a>or <a href="https://www.linkedin.com/in/aktersamiha">LinkedIn</a> 📍</p><br/><br/>
   </div>
 </div>
 
