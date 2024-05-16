@@ -5,13 +5,18 @@
 <br/><br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Flutter+Developer)](https://git.io/typing-svg)
+
+<!-- ![](https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true) -->
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true" alt="Profile views">
+</div>
 
 ---
 
 <br/>
 <div width="100%" align="center">
-  <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">
+  <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">   
   </div>
   <div align="right">
    <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Samiha's Repo</a> 📍<br/><br/>Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a> 📍<br/><br/>Currently exploring <strong>NextJs</strong> 📍<br/><br/>Connect with me <a href="mailto:samihaaktter@gmail.com">Mail</a> or <a href="https://www.linkedin.com/in/aktersamiha">LinkedIn</a> 📍</p><br/><br/>
@@ -21,7 +26,7 @@
 
 ---
 
-Hola! it's Samiha, student with a keen interest in crafting captivating digital experiences.
+Hola! it's Samiha, hooman with a keen interest in crafting captivating digital experiences.
 
 🛤️ While I'm relatively new to the tech scene, my journey has already led me to explore various avenues, including web and mobile development.
 
@@ -126,9 +131,7 @@ Programming Languages
 | Latex | Postman | Firebase | JWT |
 | :---: | :---: | :---: | :---: |
 
-# Stats
-<!-- Profile views -->
-![](https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true)
+## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 
