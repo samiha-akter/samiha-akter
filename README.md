@@ -17,8 +17,17 @@
    <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Samiha's Repo</a> 📍<br/><br/>Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a> 📍<br/><br/>Currently exploring <strong>NextJs</strong> 📍<br/><br/>Connect with me <a href="mailto:samihaaktter@gmail.com">Mail</a> or <a href="https://www.linkedin.com/in/aktersamiha">LinkedIn</a> 📍</p><br/><br/>
   </div>
 </div>
-
 <br/>
+
+---
+
+Hola! it's Samiha, student with a keen interest in crafting captivating digital experiences.
+
+🛤️ While I'm relatively new to the tech scene, my journey has already led me to explore various avenues, including web and mobile development.
+
+💻 I've dabbled in technologies like MERN, FIREBASE, JWT and even ventured into mobile app development with FLUTTER. With each project, I strive to uphold clean code principles and industry best practices. 
+
+🌱 As I continue to learn and grow, I'm excited to connect with like-minded individuals to exchange ideas and explore new opportunities. Let's connect and share in this exciting journey together!
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
 <br/>
