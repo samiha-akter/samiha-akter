@@ -110,8 +110,6 @@ Programming Languages
 | Latex | Postman | Firebase | JWT |
 | :---: | :---: | :---: | :---: |
 
-## My Top Projects
-
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react&layout=compact)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
@@ -124,5 +122,3 @@ Programming Languages
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiha-akter&theme=react) -->
 ![Waves](./wave.svg)
-
----
