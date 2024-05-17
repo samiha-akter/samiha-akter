@@ -133,16 +133,12 @@ Programming Languages
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
-
-<!--  TOP LANGUAGES -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react&layout=compact)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
-
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samiha-akter&theme=react&&utcOffset=6)
 
+![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=react&show_icons=true")
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiha-akter&theme=react) -->
-
 ![Waves](./wave.svg)
+
 ---
