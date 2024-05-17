@@ -9,7 +9,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true) -->
 <div align="center" >
-    <img  height="30px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true" alt="Profile views">
+    <img  height="25px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true" alt="Profile views">
 </div>
 
 ---
@@ -34,10 +34,9 @@ Hola! it's Samiha, hooman with a keen interest in crafting captivating digital e
 
 🌱 As I continue to learn and grow, I'm excited to connect with like-minded individuals to exchange ideas and explore new opportunities. Let's connect and share in this exciting journey together!
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
-<br/>
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
 
-## Mobile App Development
+<h3>Mobile App Development</h3>
 
 Languages
 
@@ -48,9 +47,8 @@ Frameworks, Platforms & Libraries
 
 | Flutter | SASS | GraphQL | TensorFlow Lite |
 | :---: | :---: | :---: | :---: |
-<br/>
 
-## Web Development
+<h3> Web Development </h3>
 
 Languages
 
@@ -63,9 +61,8 @@ Frameworks, Platforms & Libraries
 | Flask | React |ExpressJS | NodeJS |
 | :---: | :---: | :---: | :---: | 
 | Bootstrap | TailwindCSS | DaisyUI | shadcn UI |
-<br/>
 
-## Machine Learning, Deep Learning & Computer Vision
+<h3> Machine Learning, Deep Learning & Computer Vision </h3>
 
 Languages
 
@@ -77,59 +74,43 @@ Frameworks, Platforms & Libraries
 | NumPy | Pandas | SciPy | Matplotlib |
 | :---: | :---: | :---: | :---: |
 | TensorflowJS | OpenCV | EasyOCR | PyTesseract | 
-<br/>
 
 Programming Languages
 
 | C++ | C | Java|
 | :---: | :---: | :---: |
-<br/>
 
-## Networking & Security
+<h3> Networking & Security </h3>
 
 | WireShark |
 | :---: |
-<br/>
 
-## IoT (Internet of Things)
-
-| Arduino | Raspberry Pi |
-| :---: | :---: |
-<br/>
-
-## Server 
+<h3> Server </h3>
 
 | Apache | 
 | :---: |
-<br/>
 
-##  Database
+<h3>  Database </h3>
 
 | MySQL | Postgres | MongoDB |
 | :---: | :---: | :--: |
-<br/>
 
-## Design
+<h3> Design </h3>
 
 | Canva | Figma | Tween | Pixco |
 | :---: | :---: | :---: | :--: |
-<br/>
 
-## Team Work and Management
+<h3> Team Work and Management </h3>
 
 | Notion | Trello |Slack |
 | :---: | :---: |:---: |
-<br/>
 
-## Version Control
-| Git | GitHub |
-| :---: | :---: |
-<br/>
-
-## Other
+<h3> Other </h3>
 
 | Latex | Postman | Firebase | JWT |
 | :---: | :---: | :---: | :---: |
+
+## My Top Projects
 
 ## Stats
 
