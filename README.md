@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Flutter+Developer)](https://git.io/typing-svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true) -->
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true" alt="Profile views">
+<div align="center" >
+    <img  height="30px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2&abbreviated=true" alt="Profile views">
 </div>
 
 ---
