@@ -118,7 +118,7 @@ Programming Languages
 
 ![](https://github-readme-stats.vercel.app/api?username=samiha-akter&theme=react&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&&theme=black-ice&ring=166B81)
+![](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=black-ice&ring=166B81)
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiha-akter&theme=react) -->
 ![Waves](./wave.svg)
