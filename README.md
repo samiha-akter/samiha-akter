@@ -20,8 +20,6 @@
 
 ---
 
-🌱 Hola! it's Samiha, hooman with a keen interest in crafting captivating digital experiences. As I continue to learn and grow, I'm excited to connect with like-minded individuals to exchange ideas and explore new opportunities.
-
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Dabbled Tech Stack
 
 
@@ -41,7 +39,7 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)     ![Streak](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=black-ice&ring=166B81)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=black-ice&ring=166B81)
 
-<!-- -->
 ![Waves](./wave.svg)
