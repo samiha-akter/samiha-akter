@@ -35,7 +35,7 @@
 
 ### Stats <img src = "./stat.gif" width="30px" height="30px">
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&theme=react)](https://github.com/samiha-akter/samiha-akter/blob/main/README.md)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut&size_weight=0.5&count_weight=0.5&theme=react)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=black-ice&ring=166B81)
 
 ![Waves](./wave.svg)
