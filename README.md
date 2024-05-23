@@ -1,3 +1,4 @@
+</br></br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Flutter+Developer)](https://git.io/typing-svg)
@@ -14,6 +15,9 @@
    <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a> 📍<br/><br/>Currently exploring <strong>NextJs with ShadCN UI</strong> 📍</p><br/><br/>
   </div>
 </div>
+</br> 
+
+---
 
 ### Dabbled Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
 
@@ -31,7 +35,7 @@
 | **Other**                                 | Latex, Postman, Firebase, JWT
 
 
-### Stats <img src = "./stat.gif" width="30px" height="30px">
+### Stats <img src = "./stat.gif" width="40px" height="30px">
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut&size_weight=0.5&count_weight=0.5&theme=react)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=black-ice&ring=166B81)
