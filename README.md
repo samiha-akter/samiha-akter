@@ -39,7 +39,7 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha-akter&layout=donut&size_weight=0.5&count_weight=0.5&theme=react)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&theme=black-ice&ring=166B81)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=samiha-akter&date_format=j%20M%5B%20Y%5D&theme=black-ice&ring=166B81)
 
 <!-- ![Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiha-akter&theme=react) -->
 
