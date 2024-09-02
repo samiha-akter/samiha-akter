@@ -12,7 +12,7 @@
   <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">   
   </div>
   <div align="right">
-   <p><br/><br/>Programming Profiles in <a href="https://www.stopstalk.com/user/profile/samiha_akter">Stopstalk</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</p><br/><br/>
+   <p>Currently exploring prospects of <strong>NLP</strong> 📍</p><br/><br/><br/><br/><br/><br/>
   </div>
 </div>
 </br> 
