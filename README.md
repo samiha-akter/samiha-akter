@@ -12,7 +12,7 @@
   <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">   
   </div>
   <div align="right">
-   <p>Currently exploring prospects of <strong>NLP</strong> 📍</p><br/><br/><br/><br/><br/><br/>
+   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</p><br/><br/>
   </div>
 </div>
 </br> 
