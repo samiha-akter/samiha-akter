@@ -38,5 +38,6 @@
 ### Stats <img src = "./stat.gif" width="40px" height="30px">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly)
 
 ![Waves](./wave.svg)
