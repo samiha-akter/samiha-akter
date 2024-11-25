@@ -12,7 +12,7 @@
   <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">   
   </div>
   <div align="right">
-   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</br><br/>Know more about me <a href="https://samiha-akter.netlify.app/">Portfolio</a> 📍</br><br/>Connect with me <a href="samihaaktter@gmail.com">Email</a> 📍</p><br/><br/>
+   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</br><br/>Know more about me <a href="https://samiha-akter.netlify.app/">Portfolio</a> 📍</br><br/>Connect with me <strong>samihaaktter@gmail.com</strong> 📍</p><br/><br/>
   </div>
 </div>
 </br> 
