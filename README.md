@@ -12,7 +12,7 @@
   <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">   
   </div>
   <div align="right">
-   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</p><br/><br/><br/><br/>
+   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</br><br/>Know more about me <a href="https://samiha-akter.netlify.app/">Portfolio</a> 📍</br><br/>Connect with me <a href="samihaaktter@gmail.com">Email</a> 📍</p><br/><br/>
   </div>
 </div>
 </br> 
@@ -39,11 +39,12 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81" />
 </p>
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81) -->
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly) -->
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly" />
 </p>
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81) -->
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly) -->
+
 
 ### GSSOC(24) Extd Badges Earned
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -55,5 +56,15 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </a>
 </div>
+
+### Top Projects
+<ul>
+  <li>
+      <a href="https://glamour-lush-client.vercel.app/"><b>Glamour Lush</b></a><br/><i>Glamour Lush is a modern e-commerce platform tailored for makeup and skincare enthusiasts, built using the MERN stack (MongoDB, Express.js, React, Node.js) for seamless performance and scalability. The platform allows users to browse an extensive collection of high-quality beauty products, add items to their cart, and securely complete purchases. It combines performance, beauty, and usability to redefine online shopping for skincare and makeup lovers.</i>
+  </li>
+   <li>
+       <a href="https://inforce-traffic.netlify.app/"><b>INFORCE</b></a><br/><i> System for both traffic controllers and drivers for effective and smart case management and checking existing traffic laws and violations with fees, built using the stack- MySQL, Express.js, React, Node.js, Bootstrap. Also have a striking feature of license plate number detection using OpenCV.</i>
+   </li>
+</ul>
 
 ![Waves](./wave.svg)
