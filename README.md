@@ -37,8 +37,11 @@
 
 ### Stats <img src = "./stat.gif" width="40px" height="30px">
 
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81)-->
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly)
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81) -->
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly) -->
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly" />
+</p>
 
 ### GSSOC(24) Extd Badges Earned
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
