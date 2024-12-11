@@ -63,8 +63,17 @@
       <a href="https://glamour-lush-client.vercel.app/"><b>Glamour Lush</b></a><br/><i>Glamour Lush is a modern e-commerce platform tailored for makeup and skincare enthusiasts, built using the MERN stack (MongoDB, Express.js, React, Node.js) for seamless performance and scalability. The platform allows users to browse an extensive collection of high-quality beauty products, add items to their cart, and securely complete purchases. It combines performance, beauty, and usability to redefine online shopping for skincare and makeup lovers.</i>
   </li>
    <li>
-       <a href="https://inforce-traffic.netlify.app/"><b>INFORCE</b></a><br/><i> System for both traffic controllers and drivers for effective and smart case management and checking existing traffic laws and violations with fees, built using the stack- MySQL, Express.js, React, Node.js, Bootstrap. Also have a striking feature of license plate number detection using OpenCV.</i>
+       <a href="https://inforce-traffic.netlify.app/"><b>INFORCE</b></a>
+       <br/>
+       <i> System for both traffic controllers and drivers for effective and smart case management and checking existing traffic laws and violations with fees, built using the stack- MySQL, Express.js, React, Node.js, Bootstrap. Also, have a striking feature of license plate number detection using OpenCV.
+       </i>
    </li>
+    <li>
+        <a href="https://github.com/samiha-akter/travel-destination-recommendation"><b>Travel Destination Recommendation System</b></a>
+        <br/>
+        <i>Embark on a journey of discovery with the Turbo Prolog Travel Destination project, a harmonious blend of logic and creativity. Designed using Tech-DOSBox Prolog, this rule-based expert system elegantly unravels your preferences, weaving them into tailored travel recommendations. Each destination suggestion feels like a thoughtful whisper from a well-versed guide, turning your travel dreams into a beautifully curated reality.
+        </i>
+    </li>
 </ul>
 
 ![Waves](./wave.svg)
