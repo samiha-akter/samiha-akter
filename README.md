@@ -1,7 +1,7 @@
-</br></br></br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
+</br></br></br></br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=Undergrad+CS+Student;Competitive+Programmer;Web+Developer;+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=CSE+Student;Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
 
 <div align="center" >
     <img  height="25px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2" alt="Profile views">
@@ -39,9 +39,11 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81" />
 </p>
+<!--
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly" />
 </p>
+-->
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81) -->
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly) -->
 
