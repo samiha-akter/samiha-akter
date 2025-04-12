@@ -59,7 +59,7 @@
   </a>
 </div>
 
-### Top Projects
+### Projects
 <ul>
   <li>
       <a href="https://glamour-lush-client.vercel.app/"><b>Glamour Lush</b></a><br/><i>Glamour Lush is a modern e-commerce platform tailored for makeup and skincare enthusiasts, built using the MERN stack (MongoDB, Express.js, React, Node.js) for seamless performance and scalability. The platform allows users to browse an extensive collection of high-quality beauty products, add items to their cart, and securely complete purchases. It combines performance, beauty, and usability to redefine online shopping for skincare and makeup lovers.</i>
