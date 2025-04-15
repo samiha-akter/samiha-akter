@@ -19,6 +19,10 @@
 
 ---
 
+<p align="center">
+<img src="https://i.ibb.co.com/XZk3hBgw/contributions2.png" alt="contributions2" border="0">
+</p>
+
 ### Tech Stack Worked with<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
 
 | Categories                                | Languages, Libraries, Frameworks                                                                                       |
@@ -34,16 +38,16 @@
 | **Team Work and Management**              | Notion, Trello, Slack                                                                                                  |
 | **Other**                                 | Latex, Postman, Firebase, JWT
 
-
+<!--
 ### Stats <img src = "./stat.gif" width="40px" height="30px">
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81" />
 </p>
-<!--
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly" />
 </p>
 -->
+
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81) -->
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly) -->
 
