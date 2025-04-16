@@ -1,7 +1,7 @@
 </br></br></br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=50&color=03AED2&center=true&width=1000&lines=CSE+Student;Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=150&color=03AED2&center=true&width=1000&lines=Computer+Science+(BSc+Undergrad);Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
 
 <div align="center" >
     <img  height="25px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2" alt="Profile views">
@@ -12,7 +12,7 @@
   <div align="left"><img align="left" width="300" height="200" src="./techstack.gif">   
   </div>
   <div align="right">
-   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP</strong> 📍</br><br/>Know more about me <a href="https://samiha-akter.netlify.app/">Portfolio</a> 📍</br><br/>Connect with me <strong>samihaaktter@gmail.com</strong> 📍</p><br/><br/>
+   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍<br/><br/>Currently exploring prospects of <strong>NLP & NextJS</strong> 📍</br><br/>Know more about me <a href="https://samiha-akter.netlify.app/">Portfolio</a> 📍</br><br/>Connect with me <strong>samihaaktter@gmail.com</strong> 📍</p><br/><br/>
   </div>
 </div>
 </br> 
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-<img src="https://i.ibb.co.com/XZk3hBgw/contributions2.png" alt="contributions2" border="0">
+<img src="https://i.ibb.co.com/HDwqDJDZ/contributions.png" alt="contributions" border="0">
 </p>
 
 ### Tech Stack Worked with<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
@@ -38,10 +38,13 @@
 | **Team Work and Management**              | Notion, Trello, Slack                                                                                                  |
 | **Other**                                 | Latex, Postman, Firebase, JWT
 
-<!--
+
 ### Stats <img src = "./stat.gif" width="40px" height="30px">
+[![GitHub Streak](https://streak-stats.demolab.com?user=samiha-akter&theme=modern-lilac2&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!--
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81" alt="streak-stat" />
 </p>
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiha-akter&theme=black-ice&ring=166B81&mode=weekly" />
