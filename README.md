@@ -41,7 +41,7 @@
 
 ### Stats <img src = "./stat.gif" width="40px" height="30px">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samiha-akter&theme=blueberry-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com?user=samiha-akter&theme=blueberry-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samiha-akter&theme=vue)](https://streak-stats.demolab.com?user=samiha-akter&theme=vue)
 
 <!--
 <p align="center">
