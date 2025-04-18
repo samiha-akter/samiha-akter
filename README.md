@@ -41,7 +41,7 @@
 
 ### Stats <img src = "./stat.gif" width="40px" height="30px">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samiha-akter&theme=vue)](https://streak-stats.demolab.com?user=samiha-akter&theme=vue)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samiha-akter&theme=black-ice)](https://streak-stats.demolab.com?user=samiha-akter&theme=black-ice)
 
 <!--
 <p align="center">
