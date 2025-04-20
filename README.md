@@ -1,7 +1,7 @@
 </br></br></br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=800&duration=2500&pause=150&color=03AED2&center=true&width=1000&lines=Computer+Science+(BSc+Undergrad);Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=150&color=03AED2&center=true&width=1000&lines=Computer+Science+(BSc+Undergrad);Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
 
 <div align="center" >
     <img  height="25px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2" alt="Profile views">
@@ -18,6 +18,8 @@
 </br> 
 
 ---
+
+<img src="https://i.ibb.co.com/608Z6SvF/samiha-akter-contributions.png" alt="samiha-akter-contributions" border="0"/>
 
 ### Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
 
