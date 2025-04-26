@@ -1,7 +1,7 @@
 </br></br></br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=150&color=03AED2&center=true&width=1000&lines=Computer+Science+(BSc+Undergrad);Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=150&color=03AED2&center=true&width=1000&lines=Computer+Science+(BSc+Undergrad);Competitive+Programmer;MERN+Developer;+Flutter+Developer)](https://git.io/typing-svg)
 
 <div align="center" >
     <img  height="25px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=STALKERS&style=for-the-badge+flat&color=03AED2" alt="Profile views">
