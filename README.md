@@ -10,7 +10,7 @@
 
 ---
 <div width="100%" align="center">
-  <div align="left"><img align="left" width="350" height="150" src="./techstack.gif">   
+  <div align="left"><img align="left" width="350" height="125" src="./techstack.gif">   
   </div>
   <div align="right">
    <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍</br><br/>Know more about me <a href="https://samiha-akter.vercel.app/">Portfolio</a> 📍<br/><br/>
@@ -70,5 +70,7 @@
         </i>
     </li>
 </ul>
+
+![github_graph](./samiha-akter_contributions.png)
 
 ![Waves](./wave.svg)
