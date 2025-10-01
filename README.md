@@ -41,7 +41,7 @@
 | **Version Control & Deployment**          | Git, GitHub, Vercel, Netlify                                                                                 |
 | **Other**                                 | Latex                                                                                                                  |
 
-### GSSOC(24) Extd Badges Earned
+### GSSOC Badges Earned
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -67,6 +67,12 @@
         <a href="https://github.com/samiha-akter/travel-destination-recommendation"><b>Travel Destination Recommendation System</b></a>
         <br/>
         <i>Rule-based expert system.
+        </i>
+    </li>
+    <li>
+        <a href="https://github.com/samiha-akter/book-recommendation-system"><b>BOOKERA</b></a>
+        <br/>
+        <i>ML-Powered Collaborative Filtering-based Book Recommendations System.
         </i>
     </li>
 </ul>
