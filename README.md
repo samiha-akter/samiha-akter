@@ -77,6 +77,6 @@
     </li>
 </ul>
 
-![github_graph](./samiha-akter_contributions.png)
+
 
 ![Waves](./wave.svg)
