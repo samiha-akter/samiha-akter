@@ -1,87 +1,109 @@
-</br></br></br></br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=SAMIHA+AKTER)](https://git.io/typing-svg)
+<div align="center">
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=150&color=03AED2&center=true&width=1000&lines=Computer+Science+(BSc);Competitive+Programmer;MERN+Developer;)](https://git.io/typing-svg)
+# SAMIHA AKTER
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=1&pause=1&color=03AED2&center=true&repeat=false&width=1000&lines=•+Graduate+Student+•)](https://git.io/typing-svg)
--->
-<p align="center">
-   • <a href="https://samiha-akter.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/aktersamiha">Linkedin</a> • <a href="https://github.com/samiha-akter">GitHub</a> •
-</p> 
+**Computer Science Graduate · NLP / AI Researcher**
 
-<div align="center" >
-    <img  height="79px" src="https://komarev.com/ghpvc/?username=samiha-akter&label=Profile_Viewers&style=for-the-badge+flat&color=03AED2" alt="Profile Views">
+*Exploring language, learning systems, and intelligent machines.*
+
+<br>
+
+<a href="https://samiha-akter.vercel.app/">Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/aktersamiha">LinkedIn</a>
+  ·   <a href="https://github.com/samiha-akter">GitHub</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=samiha-akter&label=PROFILE+VIEWS&style=flat-square&color=03AED2" alt="Profile views"/>
+
 </div>
 
 ---
-<div width="100%" align="center">
-  <div align="left"><img align="left" width="350" height="125" src="./techstack.gif">   
-  </div>
-  <div align="right">
-   <p>Explore my projects at <a href="https://github.com/samiha-akter?tab=repositories">Repo</a> 📍</br><br/>Know more about me <a href="https://samiha-akter.vercel.app/">Portfolio</a> 📍<br/><br/>
-  </div>
-</div>
-</br> 
+
+## About
+
+I’m a Computer Science graduate interested in **Natural Language Processing, Large Language Models, and machine learning**. My current research focuses on **Bangla NLP**, particularly dataset construction, annotation, model evaluation, and prompting-based approaches for text classification. I enjoy working at the intersection of **research and engineering**, turning research questions into datasets, experiments, systems, and reproducible implementations.
+
+> *Currently exploring how intelligent systems can understand, represent, and reason over language.*
 
 ---
 
-### Explored Tech Stacks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
 
-| Categories                                | Languages, Libraries, Frameworks                                                                                       |
-| :---------:                                     | :---:                                                                                                                  |
-| **Programming Languages**                 | C++, C, Java, JavaScript, Dart, Python                                                                                 |
-| **Styling Libraries**                     | Tailwind CSS, Bootstrap, DaisyUI, shadcnUI, SASS                                                                       |
-| **Frontend Development**                  | HTML5, CSS3, TypeScript, React, Next.js                                                                    |
-| **Backend Development**                   | Node.js, Express.js, Flask                                                                                     |
-| **Mobile App Development**                | Flutter                                                                                                          |
-| **API Development**                       | REST,  GraphQL                                                                                                         |
-| **Machine Learning & AI**                 | TensorFlow, NumPy, Pandas, SciPy, Matplotlib, Scikit-learn                                          |
-| **Computer Vision & OCR**                 | OpenCV, EasyOCR                                                                                           |
-| **Networking & Security**                 | WireShark, JWT                                                                                                         |
-| **Server**                                | Apache                                                                                                                 |
-| **Database**                              | MySQL, Postgres, MongoDB, NoSQL, Firebase                                                                                   |
-| **Testing & Debugging**                   | Chrome DevTools, Postman                                                                                               |
-| **UI/UX Design**                          | Canva, Figma, Tween, Pixco                                                                                             |
-| **Team Work and Management**              | Notion, Trello                                                                                                |
-| **Version Control & Deployment**          | Git, GitHub, Vercel, Netlify                                                                                 |
-| **Other**                                 | Latex                                                                                                                  |
+## Selected Work
 
-### GSSOC Badges Earned
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
+### 1. ResearchLens
+
+`Python` `Scikit-learn` `Gradio` `OpenAlex` `Semantic Scholar` `arXiv` `LLMs`
+
+AI-powered research assistant for academic paper discovery, analysis, and comparison
+
+→ [View Project](https://huggingface.co/spaces/samiha-akter/ResearchLens)
+
+---
+
+### 2. PodiumPerfect
+
+`React` `Spring Boot` `Java` `MongoDB` `Google Cloud AI`
+
+AI-powered debate & public-speaking coach combining debate simulation, speech analysis, authentication, and performance analytics.
+
+---
+
+### INFORCE
+
+`React` `Node.js` `MySQL` `OpenCV` `EasyOCR` `TensorFlow.js`
+
+A smart traffic case-management platform with license-plate detection, image classification, administrative workflows, and driver-facing services.
+
+→ [Live Demo](https://inforce-se.netlify.app/)
+
+---
+
+## Technical Toolkit
+
+### Languages
+
+`Python` `C++` `C` `Java` `JavaScript` `Dart` `TypeScript`
+
+### AI / ML
+
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `Transformers`
+`LLMs` `NumPy` `Pandas` `SciPy` `OpenCV` `EasyOCR`
+
+### NLP / Research
+
+`Hugging Face` `LIME` `Jupyter` `Google Colab`
+`Dataset Annotation` `Literature Review` `Error Analysis`
+
+### Web / Systems
+
+`React` `Next.js` `Node.js` `Express.js` `Flask`
+`Spring Boot` `REST` `GraphQL`
+
+### Databases & Cloud
+
+`MongoDB` `PostgreSQL` `MySQL` `Firebase` `GCP`
+
+### Tools
+
+`Git` `GitHub` `LaTeX` `Postman` `Vercel` `Netlify`
+`Figma` `Canva` `Notion`
+
+---
+
+## 🥈 Recognition
+
+* **ICSC — Silver Honour**, 2025
+* **Japan IT Engineers Examination — FE**, Full Pass, 2024
+* **Advancing Inclusion — AnitaB.org**, 2024
+* **ICPC AlgoQueen Girls' Programming Cup**, 2025
+* **National Girls' Programming Contest**, Team Leader, 2021
+* **ADA LOVELACE National Girls' Programming Contest**, 18th nationally, 2022
+
+---
+
+### Let's Connect
+
+<div align="center">
+<img src="./wave.svg" width="100%" alt="wave"/>
 </div>
-
-### My Top Projects
-<ul>
-  <li>
-      <a href="https://glamour-lush-client.vercel.app/"><b>Glamour Lush</b></a><br/><i>Glamour Lush is a modern e-commerce platform tailored for makeup and skincare enthusiasts</i>
-  </li>
-   <li>
-       <a href="https://inforce-traffic.netlify.app/"><b>INFORCE</b></a>
-       <br/>
-       <i> System for both traffic controllers and drivers for effective and smart case management and license plate number detection.
-       </i>
-   </li>
-    <li>
-        <a href="https://github.com/samiha-akter/travel-destination-recommendation"><b>Travel Destination Recommendation System</b></a>
-        <br/>
-        <i>Rule-based expert system.
-        </i>
-    </li>
-    <li>
-        <a href="https://github.com/samiha-akter/book-recommendation-system"><b>BOOKERA</b></a>
-        <br/>
-        <i>ML-Powered Collaborative Filtering-based Book Recommendations System.
-        </i>
-    </li>
-</ul>
-
-
-
-![Waves](./wave.svg)
